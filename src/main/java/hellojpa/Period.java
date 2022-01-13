@@ -7,12 +7,11 @@ import java.time.LocalDateTime;
 public class Period {
 
 
-
     //기간
     private LocalDateTime startDate;
     private LocalDateTime endDate;
 
-    public boolean isWork(){
+    public boolean isWork() {
         return false;
     }
 

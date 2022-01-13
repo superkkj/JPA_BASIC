@@ -17,7 +17,6 @@ public class Address {
     }
 
 
-
     //주소
     private String city;
     private String street;

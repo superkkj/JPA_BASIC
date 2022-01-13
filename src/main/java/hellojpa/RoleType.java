@@ -1,5 +1,5 @@
 package hellojpa;
 
-public enum  RoleType {
-    USER,ADMIN
+public enum RoleType {
+    USER, ADMIN
 }
